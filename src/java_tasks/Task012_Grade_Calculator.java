@@ -21,17 +21,19 @@ public class Task012_Grade_Calculator {
         }
 
         int marks = scanner.nextInt();
+        if (marks < 0 || marks > 100) {
+            System.out.println("Invalid marks, please enter value 0 to 100");
 
-        if(marks >= 90 && marks <= 100){
+        }else if(marks >= 90 && marks <= 100){
             System.out.println("Marks = " + marks + " Grade = A");
         }else if(marks >= 80 && marks <= 89){
             System.out.println("Marks = " + marks + " Grade = B");
         }else if(marks >= 70 && marks <= 79){
             System.out.println("Marks = " + marks + " Grade = C");
-        }else if(marks >= 80 && marks <= 89){
+        }else if(marks >= 40 && marks <= 69){
             System.out.println("Marks = " + marks + " Grade = D");
         }else{
-            System.out.println("Marks = " + marks + " Grade = F");
+            System.out.println("Marks = " + marks + ", Status = Fail");
         }
     }
 }
