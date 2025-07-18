@@ -1,4 +1,4 @@
-package ex_20_Inheritance.hierarchical;
+package ex_20_OPPs_Inheritance.hierarchical;
 
 public class Lab180_Hierarchical {
     public static void main(String[] args) {

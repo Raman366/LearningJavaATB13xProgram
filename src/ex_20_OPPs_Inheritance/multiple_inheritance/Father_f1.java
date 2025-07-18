@@ -1,4 +1,4 @@
-package ex_20_Inheritance.multiple_inheritance;
+package ex_20_OPPs_Inheritance.multiple_inheritance;
 
 public class Father_f1 {
 

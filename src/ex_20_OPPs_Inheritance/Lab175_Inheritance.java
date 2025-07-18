@@ -1,4 +1,4 @@
-package ex_20_Inheritance;
+package ex_20_OPPs_Inheritance;
 
 public class Lab175_Inheritance {
     public static void main(String[] args) {

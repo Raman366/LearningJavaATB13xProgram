@@ -1,4 +1,4 @@
-package ex_20_Inheritance.single_inheritance;
+package ex_20_OPPs_Inheritance.single_inheritance;
 
 public class Lab176_Real_Si {
     public static void main(String[] args) {

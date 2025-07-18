@@ -1,4 +1,4 @@
-package ex_20_Inheritance.multilevel_inheritance;
+package ex_20_OPPs_Inheritance.multilevel_inheritance;
 
 public class GrandFather {
 

@@ -1,4 +1,4 @@
-package ex_20_Inheritance.single_inheritance;
+package ex_20_OPPs_Inheritance.single_inheritance;
 
 public class TestCase2 extends CommonToAll{
     void runningTC2(){

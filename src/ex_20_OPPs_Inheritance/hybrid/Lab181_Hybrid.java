@@ -1,4 +1,4 @@
-package ex_20_Inheritance.hybrid;
+package ex_20_OPPs_Inheritance.hybrid;
 
 public class Lab181_Hybrid {
     public static void main(String[] args) {
